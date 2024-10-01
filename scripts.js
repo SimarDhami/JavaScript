@@ -41,8 +41,8 @@ var arr=[1,2,2,3,4]
 
 //5.indexOf
 //index batata h, agr 2 honge toh 1st occurence ka index deta h
-var ans=arr.indexOf(2)
-console.log(ans)
+// var ans=arr.indexOf(2)
+// console.log(ans)
 
 
 
